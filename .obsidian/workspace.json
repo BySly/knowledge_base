@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "79f85b54f2d3a766",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca0dfc03556c2e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "714de02d1603d953",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be8ec109a97df5a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c3e345024ba303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa1c78741b192cf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8be32ab3d4440ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec780ea65bd02055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c175414a5aa4d847",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d6a80d64e98162",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e03a156a8d3e844",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Изменение TTL Yota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9934cadd5dbb9b7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Изменение TTL Yota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de0dc5103df2b15d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b9961edcc41f5b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Изменение TTL Yota.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "aa1c78741b192cf6",
+  "lastOpenFiles": [
+    "Активация софта.md",
+    "Изменение TTL Yota.md",
+    "Windows/Изменение TTL Yota.md",
+    "Windows",
+    "Linux/Без названия.md",
+    "Welcome.md",
+    "Сетевые настройки",
+    "Linux"
+  ]
+}
